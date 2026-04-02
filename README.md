@@ -18,4 +18,4 @@ Hand gestures are captured using sensors and transmitted wirelessly to control t
 - Wireless Module  
 
 ## Project Image
-![Project Image](car.jpg)
+![Project Image](car.jpeg)
